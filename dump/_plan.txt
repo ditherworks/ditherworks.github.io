@@ -1,0 +1,34 @@
+T O D O
+=======
+- basic structure
+	- list elements
+	- code elements
+- test on github
+- test on mobile
+- domain link
+- some social posts
+- linked in
+
+- about
+	- industry portfolio
+
+- projects
+	- trash city turbo
+	- mountain hook
+	- blob prototype
+	- pigeon prototype
+	- pixelwip, maybe
+
+	- tiny games
+	- small tutorial game of some sort
+
+	- HL level
+
+- articles / info
+	- a guide for students
+	- video games that are 'videogames'
+	- game feel
+	- great videogame characters
+		- havel the rock
+	- goldilocks values in your fundamentals
+	- jump metrics (visual guide for what is the acceptable range given a jump height)
