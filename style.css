@@ -33,22 +33,26 @@ body {
 	color: var(--light-grey);
 }
 
-@media screen and (max-width: 600px) {
-	body {
-		font-size: 24px;
-	}
-}
-
 #container {
 	max-width: 800px;
 	flex: 1 0;
-
+	
 	display: flex;
 	flex-flow: column nowrap;
-
+	
 	padding: 0px;
-
+	
 	/* border: 1px solid #333; */
+}
+
+@media screen and (max-width: 800px) {
+	body {
+		font-size: 16px;
+	}
+
+	#container {
+		max-width: 100%;
+	}
 }
 
 #header {
