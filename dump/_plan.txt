@@ -1,7 +1,5 @@
 T O D O
 =======
-- test on github
-- test on mobile
 - configure domain address linking
 - some social posts
 - linked in profile
@@ -26,3 +24,11 @@ T O D O
 		- havel the rock
 	- goldilocks values in your fundamentals
 	- jump metrics (visual guide for what is the acceptable range given a jump height)
+
+
+
+D O N E 
+-------
+- test on mobile
+- test on github
+- basic layout
