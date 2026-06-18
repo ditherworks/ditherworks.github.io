@@ -158,6 +158,29 @@ body {
   color: var(--light-green);
 }
 
+.highlight {
+	width: 100%;
+	font-size: 22px;
+	font-style: italic;
+	color: var(--light-green);
+	text-align: center;
+}
+
+#content pre {
+	font-size: 14px;
+	font-family: 'Electrolize';
+	color: var(--light-green);
+	/* background-color: #222; */
+	background-color: #201c24;
+
+	padding: 12px;
+	border-left: 1px dashed white;
+	border-right: 1px dashed white;
+
+	overflow-x: scroll;
+	scrollbar-color: var(--light-grey) #151217;
+}
+
 #footer {
 	color: #444444;
 	flex: 0 1;

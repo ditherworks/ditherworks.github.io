@@ -1,13 +1,10 @@
 T O D O
 =======
-- basic structure
-	- list elements
-	- code elements
 - test on github
 - test on mobile
-- domain link
+- configure domain address linking
 - some social posts
-- linked in
+- linked in profile
 
 - about
 	- industry portfolio
@@ -18,9 +15,6 @@ T O D O
 	- blob prototype
 	- pigeon prototype
 	- pixelwip, maybe
-
-	- tiny games
-	- small tutorial game of some sort
 
 	- HL level
 
