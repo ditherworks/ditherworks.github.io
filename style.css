@@ -162,6 +162,20 @@ body {
   color: var(--light-green);
 }
 
+#content img {
+	max-width: 100%;
+	/* border: 1px solid black; */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img_info {
+	font-size: 0.85em;
+	font-style: italic;
+	text-align: center;
+}
+
 .highlight {
 	width: 100%;
 	font-size: 22px;
