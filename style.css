@@ -176,12 +176,27 @@ body {
 	text-align: center;
 }
 
-.highlight {
+.pullout {
 	width: 100%;
-	font-size: 22px;
+	font-size: 1.5em;
 	font-style: italic;
 	color: var(--light-green);
 	text-align: center;
+}
+
+.gallery {
+	width: 100%;
+	/* height: 100px; */
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+
+.gallery_item {
+	flex: 0 1 auto;
+	align-self: center;
+	max-height: 100px;
+	padding: 10px;
 }
 
 #content pre {
