@@ -125,7 +125,7 @@ body {
 
 	padding: 0px 30px 0px 30px;
 
-	text-align: justify;
+	/* text-align: justify; */
 }
 
 #content h1 {
@@ -197,6 +197,19 @@ body {
 	align-self: center;
 	max-height: 100px;
 	padding: 10px;
+}
+
+.platform_list {
+	display: inline-flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+}
+
+.platform_item {
+	flex: 0 1 auto;
+	max-height: 16px;
+	padding-right: 20px;
+	padding-bottom: 10px;
 }
 
 #content pre {

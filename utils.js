@@ -19,10 +19,10 @@ window.onload = function() {
 	var images = document.getElementsByTagName('img')
 	for (let i = 0; i < images.length; i++) {
 
-		if (images[i].getAttribute('alt'))
+		if (images[i].hasAttribute('alt'))
 			addImageDescription(images[i]);
 
-		if (images[i].getAttribute('data-click_me'))
+		if (images[i].hasAttribute('data-click_me'))
 			makeImageClickable(images[i]);
 	}
 }
