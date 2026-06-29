@@ -5,10 +5,12 @@
 :root {
 	--grey: #777;
 	--light-grey: #AAA;
+	--lighter-grey: #DDD;
 
 	--link-grey: #DDD;
 
 	--light-green: rgb(134, 239, 195);
+	--light-purple: rgb(206, 134, 239);
 }
 
 html {
@@ -113,6 +115,7 @@ body {
 
 #nav a:link, a:visited, a:active {
   color: var(--link-grey);
+  text-shadow: 3px 3px black;
 }
 
 #nav a:hover {
@@ -120,37 +123,49 @@ body {
 }
 
 #content {
-	line-height: 200%;
-
 	padding: 0px 30px 0px 30px;
+
+	line-height: 200%;
 
 	/* text-align: justify; */
 }
 
 #content h1 {
 	font-family: 'Squada One';
-	font-size: 32px;
+	font-size: 36px;
 	color: var(--light-green);
+	text-shadow: 4px 4px black;
 
-	padding-bottom: 8px;
-	border-bottom: 1px dotted white;
+	margin: 40px 0px 20px 0px;
+	padding: 0px 0px 16px 0px;
+	border-bottom: 1px dotted var(--light-green);
 }
 
 #content h2 {
-	/* display: inline-block; */
+	display: inline-block;
 	font-family: 'Squada One';
 	font-size: 28px;
 	color: var(--light-green);
-	color: white;
-	padding-top: 32px;
-	padding-bottom: 8px;
-	border-bottom: 1px dotted var(--grey);
+	text-shadow: 4px 4px black;
+
+	margin: 0px 0px 20px 0px;
+	padding: 40px 0px 8px 0px;
+	border-bottom: 1px dotted white;
 }
 
 #content h3 {
 	font-family: 'Squada One';
 	font-size: 24px;
-	color: var(--light-grey);
+	color: white;
+	text-shadow: 3px 3px black;
+
+	margin: 0px;
+	padding: 30px 0px 20px 0px;
+}
+
+#content p {
+	margin: 0px;
+	padding: 0px;
 }
 
 #content a {
