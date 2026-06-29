@@ -136,9 +136,9 @@ body {
 	color: var(--light-green);
 	text-shadow: 4px 4px black;
 
-	margin: 40px 0px 20px 0px;
+	margin: 40px 0px 10px 0px;
 	padding: 0px 0px 16px 0px;
-	border-bottom: 1px dotted var(--light-green);
+	/* border-bottom: 1px dotted var(--light-green); */
 }
 
 #content h2 {
@@ -148,9 +148,9 @@ body {
 	color: var(--light-green);
 	text-shadow: 4px 4px black;
 
-	margin: 0px 0px 20px 0px;
-	padding: 40px 0px 8px 0px;
-	border-bottom: 1px dotted white;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 20px 0px;
+	/* border-bottom: 1px dotted white; */
 }
 
 #content h3 {
@@ -160,12 +160,12 @@ body {
 	text-shadow: 3px 3px black;
 
 	margin: 0px;
-	padding: 30px 0px 20px 0px;
+	padding: 0px 0px 10px 0px;
 }
 
 #content p {
-	margin: 0px;
-	padding: 0px;
+	margin: 0px 0px 16px 0px;
+	/* padding: 0px; */
 }
 
 #content a {
@@ -193,12 +193,14 @@ body {
 	text-align: center;
 }
 
-.pullout {
+#content .pullout {
 	width: 100%;
-	font-size: 1.5em;
+	font-size: 1.35em;
 	font-style: italic;
 	color: var(--light-green);
 	text-align: center;
+	padding: 16px 0px 16px 0px;
+	line-height: 200%;
 }
 
 .gallery {
