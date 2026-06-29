@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 
 :root {
@@ -10,7 +10,7 @@
 	--link-grey: #DDD;
 
 	--light-green: rgb(134, 239, 195);
-	--light-purple: rgb(206, 134, 239);
+	--retro-purple: #822692;
 }
 
 html {
@@ -30,8 +30,8 @@ body {
 	padding: 0px;
 	margin: 0px;
 
-	font-family: 'Electrolize';
-	font-size: 15px;
+	font-family: 'Saira Semi Condensed';
+	font-size: 16px;
 	color: var(--light-grey);
 }
 
@@ -76,6 +76,9 @@ body {
 	flex: 1 0;
 	text-align: right;
 	color: var(--light-green);
+
+	font-weight: bold;
+	font-size: 20px;
 	
 	padding: 20px 30px 0px 0px;
 }
@@ -110,16 +113,18 @@ body {
 	margin-left: 3px;
 	margin-right: 6px;
 
-	font-weight: bold;
+	font-family: 'Squada One';
+	font-size: 18px;
+	font-weight: normal;
 }
 
 #nav a:link, a:visited, a:active {
-  color: var(--link-grey);
-  text-shadow: 3px 3px black;
+	color: var(--link-grey);
+	text-shadow: 3px 3px black;
 }
 
 #nav a:hover {
-  color: var(--light-green);
+	color: var(--light-green);
 }
 
 #content {
@@ -132,21 +137,19 @@ body {
 
 #content h1 {
 	font-family: 'Squada One';
-	font-size: 36px;
+	font-size: 30px;
 	color: var(--light-green);
 	text-shadow: 4px 4px black;
 
 	margin: 40px 0px 10px 0px;
 	padding: 0px 0px 16px 0px;
-	/* border-bottom: 1px dotted var(--light-green); */
 }
 
 #content h2 {
-	/* display: inline-block; */
 	font-family: 'Squada One';
-	font-size: 28px;
+	font-size: 26px;
 	color: var(--light-green);
-	text-shadow: 4px 4px black;
+	text-shadow: 3px 3px black;
 
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 20px 0px;
@@ -155,9 +158,9 @@ body {
 
 #content h3 {
 	font-family: 'Squada One';
-	font-size: 24px;
+	font-size: 20px;
 	color: white;
-	text-shadow: 3px 3px black;
+	text-shadow: 2px 2px black;
 
 	margin: 0px;
 	padding: 0px 0px 10px 0px;
@@ -169,15 +172,15 @@ body {
 }
 
 #content a {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 
 #content a:link {
-  color: var(--link-grey);
+	color: var(--link-grey);
 }
 
 #content a:hover {
-  color: var(--light-green);
+	color: var(--light-green);
 }
 
 .screenshot {

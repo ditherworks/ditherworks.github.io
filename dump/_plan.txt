@@ -14,9 +14,6 @@ T O D O
 	- pigeon prototype
 	- keyboard
 	- pixelwip, maybe
-	- how much detail is need on these, not much, surely
-
-	- HL level
 
 - articles / info
 	- a guide for students
