@@ -96,9 +96,9 @@ body {
 
 	background-size: cover;
 
-	width: 20px;
-	height: 20px;
-	margin-top: 16px;
+	width: 16px;
+	height: 16px;
+	/* margin-top: 16px; */
 	/* margin-left: 10px; */
 
 	background-position: top;
@@ -114,6 +114,10 @@ body {
 
 #twit {
 	background-image: url(images/social_twit2.png);
+}
+
+#linkedin {
+	background-image: url(images/social_linkedin2.png);
 }
 
 #nav a {
@@ -193,6 +197,12 @@ body {
 
 #content a:hover {
 	color: var(--light-green);
+}
+
+#content img.project_preview {
+	max-width: 100%;
+	display: block;
+	margin: 16px auto 16px auto;
 }
 
 .screenshot {

@@ -6,16 +6,8 @@ T O D O
 - linkedIn profile
 - auto thumbnail (_thumb.xxx) linking
 
-- clickable logo for front page
-
-- front page
-
-- about
-	- industry portfolio
-
 
 - projects
-	- trash city turbo
 	- mountain hook
 	- blob prototype
 	- pigeon prototype
