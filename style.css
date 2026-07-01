@@ -7,7 +7,7 @@
 	--light-grey: #AAA;
 	--lighter-grey: #DDD;
 
-	--link-grey: #DDD;
+	--link-highlight: #FFF;
 
 	--light-green: rgb(134, 239, 195);
 	--retro-purple: #822692;
@@ -127,7 +127,7 @@ body {
 }
 
 #nav a:link, a:visited, a:active {
-	color: var(--link-grey);
+	color: var(--link-highlight);
 	text-shadow: 3px 3px black;
 }
 
@@ -184,11 +184,11 @@ body {
 }
 
 #content a {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 #content a:link {
-	color: var(--link-grey);
+	color: var(--link-highlight);
 }
 
 #content a:hover {
