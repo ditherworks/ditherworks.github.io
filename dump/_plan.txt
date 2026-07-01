@@ -1,11 +1,18 @@
 T O D O
 =======
 - configure domain address linking
+	- wait for verification
 - some social posts
-- linked in profile
+- linkedIn profile
+- auto thumbnail (_thumb.xxx) linking
+
+- clickable logo for front page
+
+- front page
 
 - about
 	- industry portfolio
+
 
 - projects
 	- trash city turbo
@@ -23,41 +30,3 @@ T O D O
 		- havel the rock
 	- goldilocks values in your fundamentals
 	- jump metrics (visual guide for what is the acceptable range given a jump height)
-
-Home
-----
-Hello, my name is Mark Wherrett and I'm a multi-disciplinary Game Designer with over 20 years of experience and a part-time tutor. You can learn more about my commercial experience in the ABOUT section, browse my SIDE PROJECTS or read some of my design ARTICLES aimed at all skill levels.
-
-Recent Posts
--
--
--
-
-About
-=====
-Over my years in the industry I've covered all disciplines of design whilst leading teams, improving tech and teaching juniors within teams of all sizes and across multiple platforms. I love getting stuck into the technical side of things and always have a SIDE PROJECT on the go.
-
-
-
-Commerical Titles
------------------
-Trash City Turbo
-Unannounced Multiplayer Action Game
-Gods Will Fall (get the review)
-Rime
-Spyhunter
-Guiness
-LEGO Games
-	marvel
-	movie
-	batman
-	star wars
-	clone wars
-	indy
-	potter
-
-
-team lead
-project lead
-teaching
-tightly scoped, concise games with great game feel
