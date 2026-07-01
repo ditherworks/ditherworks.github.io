@@ -236,11 +236,12 @@ body {
 
 #content pre {
 	font-size: 14px;
-	font-family: 'Electrolize';
+	font-family: 'Saira Semi Condensed';
 	color: var(--light-green);
 	/* background-color: #222; */
 	background-color: #201c24;
 
+	margin: 32px 00px 32px 0px;
 	padding: 12px;
 	border-left: 1px dashed white;
 	border-right: 1px dashed white;
