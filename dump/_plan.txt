@@ -1,24 +1,20 @@
 T O D O
 =======
-- configure domain address linking
-	- wait for verification
-- some social posts
-- linkedIn profile
 - auto thumbnail (_thumb.xxx) linking
 
 
 - projects
-	- mountain hook
-	- blob prototype
+	- ditherworks tools
 	- pigeon prototype
+	- blob prototype
 	- keyboard
 	- pixelwip, maybe
 
 - articles / info
 	- a guide for students
+	- goldilocks values in your fundamentals
+	- jump metrics (visual guide for what is the acceptable range given a jump height)
 	- video games that are 'videogames'
 	- game feel
 	- great videogame characters
 		- havel the rock
-	- goldilocks values in your fundamentals
-	- jump metrics (visual guide for what is the acceptable range given a jump height)
