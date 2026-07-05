@@ -199,7 +199,7 @@ body {
 	color: var(--light-green);
 }
 
-#content img.project_preview {
+#content .project_preview {
 	max-width: 100%;
 	display: block;
 	margin: 16px auto 16px auto;
@@ -262,6 +262,10 @@ body {
 
 	overflow-x: scroll;
 	scrollbar-color: var(--light-grey) #151217;
+}
+
+#content video {
+	margin: 16px 0px 16px 0px;
 }
 
 #footer {
